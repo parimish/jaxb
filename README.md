@@ -1,2 +1,2 @@
 # jaxb
-This will contain only jaxb related code
+This repository will contain only jaxb related code
